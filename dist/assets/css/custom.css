@@ -77,6 +77,16 @@ ul.infractions {
 color: #FF4290;
 }
 
+.simp-form-apply {
+  background-color: #111;
+  color: #FFF;
+}
+
+.simp-form-apply:hover {
+  background-color: #FF4290;
+  color: #FFF;
+}
+
 .simp-text {
   color: white;
 }
@@ -145,4 +155,75 @@ button.btn-simp-dark:hover {
 
 .center {
   text-align: center;
+}
+
+
+.simp-nav {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-size: 0.8em;
+  color: #111111;
+}
+
+.btn-simp-nav {
+  outline: 1px;
+  outline-color: pink;
+}
+
+/* .bg-clear {
+  background-color: transparent;
+} */
+
+.modal-body {
+  padding: 0px;
+}
+
+.border-simp {
+  border-color: red!important;
+  border-top-width: thick;
+  border-radius: 5px;
+}
+
+button.simp-x {
+  padding: 1rem 1rem 0 1rem;
+}
+
+.form-group {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.8em;
+  color: #111111;
+}
+
+.form-title {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  /* font-weight: 700; */
+  font-size: 1.4em;
+  color: #111111;
+}
+
+.apply {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+}
+
+.nav-link {
+  font-weight: normal;
+}
+
+.navbar-nav {
+  font-weight: normal;
+}
+
+.navbar-nav .nav-link {
+  font-weight: normal;
+}
+
+p.simp {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-size: 0.3em;
+  color: #111111;
 }
