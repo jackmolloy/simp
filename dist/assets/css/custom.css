@@ -227,3 +227,28 @@ p.simp {
   font-size: 0.3em;
   color: #111111;
 }
+
+.btn-simp-nav {
+  font-size: 0.9rem;
+  line-height: 1;
+  font-family: IBM Plex Mono;
+  font-weight: normal;
+  background-color: #FF4290;
+}
+
+.btn-simp-nav:hover {
+  font-size: 0.9rem;
+  line-height: 1;
+  font-family: IBM Plex Mono;
+  font-weight: normal;
+  background-color: #FF4290;
+}
+
+.btn-danger:focus {
+    color: #fff;
+    background-color: #FF4290;
+}
+
+.btn-danger{
+  background-color: #FF4290;
+}

@@ -4,6 +4,7 @@
 // UP UP DOWN ODWN LEFT RIGHT LEFT RIGHT A B
 // to trigger the confetti with a random color theme.
 // Otherwise the confetti constantly falls.
+// Source: https://codepen.io/cerpow/pen/RwNaeOb
 var onlyOnKonami = false;
 
 $(function() {
