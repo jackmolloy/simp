@@ -46,6 +46,14 @@ font-size: 2em;
 color: #111111;
 }
 
+h2.simp-about {
+font-family: IBM Plex Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 2em;
+color: #FFF;
+}
+
 h3.simp {
 height: 23px;
 font-family: IBM Plex Mono;
@@ -56,6 +64,14 @@ line-height: 23px;
 color: #111111;
 }
 
+h4.about {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2em;
+  color: #FFF;
+}
+
 ul.infractions {
   font-family: IBM Plex Mono;
   font-style: normal;
@@ -63,6 +79,22 @@ ul.infractions {
   font-size: 0.8em;
   color: #111111;
   padding-left: 20px;
+}
+
+p.body {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: Regular;
+  font-size: 0.8em;
+  color: #FFFFFF;
+}
+
+p.emoji {
+  font-size: 2.5em;
+}
+
+img.emoji {
+  font-size: 2.5em;
 }
 
 .card-simp{
