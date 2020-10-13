@@ -288,3 +288,44 @@ p.simp {
 .btn-danger{
   background-color: #FF4290;
 }
+
+.btn-success {
+    color: #fff;
+    background-color: red;
+    border-color: red;
+    box-shadow: none;
+  }
+
+/* Extra small devices (phones, 700px and down) */
+@media only screen and (max-width: 700px) {
+
+h1.simp {
+  width: 100%;
+  height: auto;
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 3em;
+  line-height: 1em;
+  /* text-align: center; */
+  /* Simp Pink */
+  color: #111;
+  z-index: 100;
+}
+
+h3.simp {
+height: auto;
+font-family: IBM Plex Mono;
+font-style: normal;
+font-weight: Regular;
+font-size: 1em;
+line-height: 1em;
+color: #111111;
+}
+
+.mob-pad {
+  padding-bottom: 20px;
+}
+
+
+}
