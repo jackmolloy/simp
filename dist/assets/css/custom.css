@@ -89,6 +89,19 @@ p.body {
   color: #FFFFFF;
 }
 
+.copyright-text {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: Regular;
+  font-size: 0.6em;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.site-footer {
+  background-color: #111;
+}
+
 p.emoji {
   font-size: 2.5em;
 }
@@ -295,6 +308,11 @@ p.simp {
     border-color: red;
     box-shadow: none;
   }
+
+a.copyright {
+  color: #FF4290
+}
+
 
 /* Extra small devices (phones, 700px and down) */
 @media only screen and (max-width: 700px) {
