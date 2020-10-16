@@ -1,3 +1,80 @@
+@font-face{
+    src: url('../fonts/gt-america-ultralightitalic.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face{
+    src: url('../fonts/gt-america-thinitalic.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face{
+    src: url('../fonts/gt-america-lightitalic.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face{
+    src: url('../fonts/gt-america-regularitalic.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face{
+    src: url('../fonts/gt-america-mediumitalic.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face{
+    src: url('../fonts/gt-america-bolditalic.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face{
+    src: url('../fonts/gt-america-blackitalic.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face{
+    src: url('../fonts/gt-america-ultralight.woff') format('woff');
+    font-family: GT-America-ultra-light;
+    font-weight: 100;
+}
+@font-face{
+    src: url('../fonts/gt-america-thin.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 200;
+}
+@font-face{
+    src: url('../fonts/gt-america-light.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 300;
+}
+@font-face{
+    src: url('../fonts/gt-america-regular.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 400;
+}
+@font-face{
+    src: url('../fonts/gt-america-medium.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 500;
+}
+@font-face{
+    src: url('../fonts/gt-america-bold.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 700;
+}
+@font-face{
+    src: url('../fonts/gt-america-black.woff') format('woff');
+    font-family: GT-America;
+    font-weight: 900;
+}
 
 .simp-header {
   background-color: #FFF;
