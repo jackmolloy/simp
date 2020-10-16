@@ -240,9 +240,9 @@
                 <label for="applyName">
                   <span class="form-title">Your Name</span>
                 </label>
-                <input type="text" class="form-control" id="applyName" placeholder="Full name">
+                <input type="text" class="form-control" id="applyName" placeholder="Full name" name="name">
               </div>
-
+              
             </div>
             <div class="col-12">
 
@@ -351,7 +351,7 @@
 
 
                       <!-- Form -->
-                      <form name="submit">
+                      <form name="submit" method="POST" data-netlify="true">
                         <div class="row">
                           <div class="col-12">
 
@@ -359,7 +359,7 @@
                               <label for="applyName">
                                 <span class="form-title">Your Name</span>
                               </label>
-                              <input type="text" class="form-control" id="applyName" placeholder="Full name">
+                              <input type="text" class="form-control" id="applyName" placeholder="Full name" name="name">
                             </div>
 
                           </div>
@@ -454,7 +454,7 @@
 
     <section>
       <div class="container">
-        <form name="contact" method="POST" data-netlify="true">
+        <form name="contact">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>
   </p>
