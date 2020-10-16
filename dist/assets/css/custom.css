@@ -327,5 +327,17 @@ color: #111111;
   padding-bottom: 20px;
 }
 
+.navbar-btn {
+  width: auto;
+}
+
+.btn-pill {
+  border-radius: 0;
+}
+
+a.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+}
 
 }
