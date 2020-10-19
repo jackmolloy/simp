@@ -81,8 +81,8 @@
 }
 
 h1.simp {
-width: 295px;
-height: 164px;
+width: 100%;
+height: auto;
 font-family: IBM Plex Sans;
 font-style: normal;
 font-weight: bold;
