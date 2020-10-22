@@ -390,6 +390,10 @@ a.copyright {
   color: #FF4290
 }
 
+.winner-padding {
+  padding-top: 75px;
+}
+
 
 /* Extra small devices (phones, 700px and down) */
 @media only screen and (max-width: 700px) {
