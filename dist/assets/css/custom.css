@@ -394,6 +394,10 @@ a.copyright {
   padding-top: 75px;
 }
 
+.card-img-width {
+  width: 390px; 
+}
+
 
 /* Extra small devices (phones, 700px and down) */
 @media only screen and (max-width: 700px) {
